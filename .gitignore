@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+.DS_Store
+# model weights (re-generate by running the notebook)
+*.pth
+# raw telemetry: remove this line if you decide to publish the CSV files
+# data/*.csv

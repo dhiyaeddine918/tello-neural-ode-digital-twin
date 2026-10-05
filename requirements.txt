@@ -1,0 +1,7 @@
+torch
+torchdiffeq
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
